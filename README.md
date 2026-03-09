@@ -1,10 +1,8 @@
 # First Proof Project
 
-**Measuring AI's ability to autonomously generate mathematical proofs.**
+**Measuring AI's ability to autonomously solve problems that arise naturally in the mathematical research process.**
 
 The First Proof Project provides independent assessments of the reasoning abilities of AI systems in the context of research mathematics. We present sets of research-level math questions — drawn from fields such as algebraic combinatorics, spectral graph theory, algebraic topology, and more — for AI systems to solve autonomously.
-
-Mathematics is the ideal testbed for evaluating AI reasoning: correctness is unambiguous, verification standards are exceptionally high, and there is no reproducibility crisis. Progress in rigorous evaluation here can inform how AI should be developed and deployed across science.
 
 ## Resources
 
